@@ -1,3 +1,5 @@
+#Three-cup-montee-game
+
 # Shuffle and Guess Game 🎲
 
 A fun and interactive Python command-line game where you try to find the hidden "O" in a shuffled list. Perfect for beginners learning Python basics like list manipulation, user input, and randomness.
